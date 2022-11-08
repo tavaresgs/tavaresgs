@@ -1,4 +1,4 @@
-## Praise the sun!
+##
 <img src="https://giffiles.alphacoders.com/146/14685.gif"/>
 
 ## Ferramentas e Tecnologias 
