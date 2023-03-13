@@ -1,5 +1,5 @@
 ## Bem vindo!!
-<img src="https://giffiles.alphacoders.com/146/14685.gif"/ width="400">
+<img src="https://giffiles.alphacoders.com/146/14685.gif" width="400"/>
 
 
 ## Artigos
