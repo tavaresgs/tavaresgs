@@ -1,5 +1,20 @@
 ## Bem vindo!!
-<img src="https://giffiles.alphacoders.com/146/14685.gif"/>
+<img src="https://giffiles.alphacoders.com/146/14685.gif" width="400"/>
+
+## Tecnologias
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
+</div>
+
+## Estou aprendendo
+<div>
+  <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+</div>
+
+
 
 
 ## Artigos
