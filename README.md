@@ -1,4 +1,4 @@
-## Bem vindo!!
+## Bem vindo!! <img src="https://cdnb.artstation.com/p/assets/images/images/052/142/157/original/johan-cediel-rodriguez-pixel-artv2exp.gif?1659037637" width="65"/>
 <br>
 <img src="https://giffiles.alphacoders.com/146/14685.gif" width="600"/>
 
