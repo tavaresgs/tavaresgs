@@ -22,9 +22,8 @@
 <div>
   <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50">
 </div>
-
-
 
 
 ## Artigos
