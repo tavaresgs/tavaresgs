@@ -1,6 +1,7 @@
 ## Bem vindo!! <img src="https://cdnb.artstation.com/p/assets/images/images/052/142/157/original/johan-cediel-rodriguez-pixel-artv2exp.gif?1659037637" width="50"/>
 <br>
-<img src="https://giffiles.alphacoders.com/146/14685.gif" width="600"/>
+<img src="https://64.media.tumblr.com/adac611ed299098bbfd5527cacb1feb5/tumblr_o6v2n6Dwqn1vp0h0go1_540.gif" width="540"/>
+
 
 ##
 
